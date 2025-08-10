@@ -19,6 +19,8 @@ const joseph = {
     location: "Eloy Alfaro, Guayas, EC",
     education: "Software Engineering Student",
     currentFocus: ["Backend Development", "System Design", "Clean Architecture"],
+    primaryLanguages: ["Python", "Java"],
+    secondaryLanguages: ["JavaScript", "TypeScript"],
     philosophy: "Code is poetry written in logic",
     dailyRoutine: ["☕ Coffee", "💻 Code", "🔄 Refactor", "📚 Learn", "🔁 Repeat"]
 };
@@ -29,16 +31,16 @@ const joseph = {
 ## ⚡ Tech Arsenal
 
 ### 🔧 Core Technologies
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a1a)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a1a)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a1a)
 
-### 🛠️ Tools & Frameworks
+### 🛠️ Frameworks & Libraries
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=1a1a1a)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=1a1a1a)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=1a1a1a)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a1a)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1a1a)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a1a)
 
 ### 🗄️ Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a1a)
@@ -63,7 +65,7 @@ const joseph = {
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Joseph&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Joseph&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=4&hide=html,css,scss,less" />
 
 </div>
 
