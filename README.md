@@ -64,7 +64,7 @@ const joseph = {
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Joseph&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Joseph&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=4&hide=html,css,scss,less,ruby,c,c%2B%2B,shell&include_all_commits=true" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=4&hide=html,css,scss,less,ruby,c,c%2B%2B,shell,go,rust,php,swift,kotlin,dart,r,matlab,objective-c,vue,coffeescript,makefile,dockerfile,yaml,json,xml&include_all_commits=true&exclude_repo=repo1,repo2" />
 
 </div>
 
