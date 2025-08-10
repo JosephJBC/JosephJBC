@@ -5,8 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+the+Future%2C+One+Line+at+a+Time;Backend+Developer+%7C+System+Designer;Clean+Code+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Joseph&label=Profile%20Views&color=0891b2&style=flat-square)](https://github.com/Joseph)
-[![GitHub Followers](https://img.shields.io/github/followers/Joseph?label=Followers&style=flat-square&color=0891b2&logo=github)](https://github.com/Joseph?tab=followers)
+
 
 </div>
 
@@ -65,7 +64,7 @@ const joseph = {
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Joseph&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Joseph&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=4&hide=html,css,scss,less" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=4&hide=html,css,scss,less,ruby,c,c%2B%2B,shell&include_all_commits=true" />
 
 </div>
 
@@ -89,11 +88,9 @@ $ joseph --status
 
 <div align="center">
 
-### 📫 Let's Connect & Build Something Amazing
+### 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-josephbonecastillo2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:josephbonecastillo2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a)](https://linkedin.com/in/joseph-bone-castillo)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/Joseph)
 
 ---
 
