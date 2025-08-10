@@ -14,26 +14,13 @@
 ---
 
 ## 📊 GitHub Stats
-![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joseph&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Joseph&theme=tokyonight)
-
----
-
-## 🚀 Featured Projects
-- [📦 Project 1](https://github.com/Joseph/project1)
-- [📌 Project 2](https://github.com/Joseph/project2)
+![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO_GITHUB&theme=tokyonight)
 
 ---
 
 📫 **Contact me:** [Email](mailto:josephbonecastillo2005@gmail.com)
 
----
-
-
-<!--
-**JosephJBC/JosephJBC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
