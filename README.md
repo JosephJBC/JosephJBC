@@ -1,101 +1,80 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=p-soham11.p-soham11" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Soham+Pal!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from India 🧑‍💻</h3>
+
+<h3 align='left'>{ More precisely }</h3><h4> I am a passionate Full Stack Software Developer with a robust technical skill set and one year of internship experience. My journey includes six months at a dynamic startup, where I navigated the fast-paced world of innovation, and six months at EY, honing my skills in a structured, professional environment. 
+    
+I thrive on coding and exploring new technologies—always eager to debug, develop, and deploy the next big thing. When I’m not immersed in code, you’ll find me cruising on my motorcycle, because whether it's riding or coding, I love the thrill of the journey.
+</h4>
+
+<br/>
+
+<div align="left">
+ 
+- 🔭 I’m currently looking for **a fulltime job** and am working as **a freelancer**
+- 🌱 I’m currently learning **Next.JS**
+- 💬 Ask me about **React, TypeScript, Node.JS or Brain Teasers** maybe!
+- ⚡ Fun fact: **Motorcycle riders are like software engineers? Both debug their problems by "crashing" and rebooting!**
+
+ </div>
+
 <div align="center">
 
-# 🚀 Joseph Bone Castillo
-### `Software Engineering Student | Backend Architect | Code Craftsman`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+the+Future%2C+One+Line+at+a+Time;Backend+Developer+%7C+System+Designer;Clean+Code+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
+  
+ <h3> 🛠️: Languages & Tools :</h3>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React_Js" alt="React_Js" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" title="NextJS" alt="NextJS" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" title="Angular" alt="Angular" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="TypeScript" alt="TypeScript" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" title="TailwindCss" alt="TailwindCss" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" title="NodeJS" alt="NodeJS" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++" alt="C++" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" title="npm" alt="npm" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL" alt="MySQL" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDB" alt="MongoDB" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" title="ExpressJS" alt="ExpressJS" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" title="PHP" alt="PHP" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="Linux" alt="Linux" width="45" height="55"/>&nbsp;
+
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" title="JQuery" alt="JQuery" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML5" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS3" alt="CSS3" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" title="BootsTrap" alt="BootsTrap" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" title="Sass" alt="sass" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" alt="Postman" width="45" height="55"/>&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VsCode" alt="VsCode" width="45" height="55"/>&nbsp;
 
 
 
 </div>
 
----
 
-## 🧠 About Me
 
-```javascript
-const joseph = {
-    location: "Eloy Alfaro, Guayas, EC",
-    education: "Software Engineering Student",
-    currentFocus: ["Backend Development", "System Design", "Clean Architecture"],
-    primaryLanguages: ["Python", "Java"],
-    secondaryLanguages: ["JavaScript", "TypeScript"],
-    philosophy: "Code is poetry written in logic",
-    dailyRoutine: ["☕ Coffee", "💻 Code", "🔄 Refactor", "📚 Learn", "🔁 Repeat"]
-};
-```
+ <br>
 
-<div align="center">
+<h4>Want to know me more?</h4>
+<h4>Connect with me:</h4>
 
-## ⚡ Tech Arsenal
+<a href="https://www.linkedin.com/in/palsoham/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://x.com/p_soham11" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+<a href="https://www.instagram.com/sohahaham.pal/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
+<a href="https://sohampal.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+</a>
 
-### 🔧 Core Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a1a)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a1a)
-
-### 🛠️ Frameworks & Libraries
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=1a1a1a)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=1a1a1a)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=1a1a1a)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a1a)
-
-### 🗄️ Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a1a)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a1a)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a1a)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a1a)
-
-### ⚙️ Development Environment
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1a1a1a)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=1a1a1a)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1a1a)
-
-</div>
-
----
-
-## 📊 Performance Analytics
 
 <div align="center">
+  <h4>Github Stats ⚡</h4>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Joseph&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Joseph&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=4&hide=html,css,scss,less,ruby,c,c%2B%2B,shell,go,rust,php,swift,kotlin,dart,r,matlab,objective-c,vue,coffeescript,makefile,dockerfile,yaml,json,xml&include_all_commits=true&exclude_repo=repo1,repo2" />
-
+  <a href="#">![Stats](https://github-readme-streak-stats.herokuapp.com/?user=p-soham11&theme=tokyonight&hide_border=true&card_width=480&card_height=165)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-soham11&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  
 </div>
 
----
-
-## 🎯 Current Mission
-
-```bash
-$ joseph --status
-┌─ Current Projects ────────────────────────────────────────┐
-│  🔨 Building scalable backend architectures               │
-│  📚 Mastering distributed systems                         │
-│  🌱 Contributing to open source projects                  │
-│  💡 Exploring microservices patterns                      │
-└───────────────────────────────────────────────────────────┘
-```
-
-## 🌟 Code Philosophy
-
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* - Martin Fowler
-
-<div align="center">
-
-### 📫 Contact Me
-
-[![Email](https://img.shields.io/badge/Email-josephbonecastillo2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:josephbonecastillo2005@gmail.com)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
-
-*"Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."* - Brian Kernighan
-
-</div>
+<div align="center"><a href=# ><img src="contributions.svg"></a> </div>
