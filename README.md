@@ -4,9 +4,9 @@
 
 <h3 align="center">A passionate software developer from Ecuador 🧑‍💻</h3>
 
-<h3 align='left'>{ More precisely }</h3><h4> I am a passionate Full Stack Software Developer with a robust technical skill set and one year of internship experience. My journey includes six months at a dynamic startup, where I navigated the fast-paced world of innovation, and six months at EY, honing my skills in a structured, professional environment. 
+<h3 align='left'>{ More precisely }</h3><h4> I am a passionate Software Engineering student with a strong motivation for developing scalable and efficient backend solutions. While my primary focus is on server architecture and databases, I also enjoy exploring and applying my knowledge in the frontend to understand the complete development lifecycle. 
     
-I thrive on coding and exploring new technologies—always eager to debug, develop, and deploy the next big thing. When I’m not immersed in code, you’ll find me cruising on my motorcycle, because whether it's riding or coding, I love the thrill of the journey.
+I consider myself a natural problem-solver, thriving on the challenge of transforming complex ideas into clean, functional code. My curiosity drives me to be a constant learner and to explore new technologies to optimize my personal projects..
 </h4>
 
 <br/>
