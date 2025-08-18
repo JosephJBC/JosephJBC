@@ -51,7 +51,7 @@ I consider myself a natural problem-solver, thriving on the challenge of transfo
 <h4>Connect with me:</h4>
 
 <a href="https://www.linkedin.com/in/joseph-bone-castillo-19ab7337a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-[![Email Me](https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge&logo=)](josephbonecastillo2005@gmail.com)
+[![Email Me](https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge&logo=)](mailto:josephbonecastillo2005@gmail.com)
 </a>
 
 
