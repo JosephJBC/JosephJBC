@@ -14,7 +14,7 @@ I consider myself a natural problem-solver, thriving on the challenge of transfo
 <div align="left">
  
 - 🔭 I’m currently looking for **a fulltime job** 
-- 🌱 I’m currently learning **Next.JS**
+- 🌱 I’m currently learning **Typescript**
 - 💬 Ask me about **Node.JS, Java, Python or Brain Teasers** maybe!
 - ⚡ Fun fact: **Motorcycle riders are like software engineers? Both debug their problems by "crashing" and rebooting!**
 
