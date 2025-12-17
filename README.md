@@ -25,6 +25,7 @@ I consider myself a natural problem-solver, thriving on the challenge of transfo
 
   
  <h3> 🛠️: Languages & Tools :</h3>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java.svg" title="Java" alt="Java" width="45" height="55"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="TypeScript" alt="TypeScript" width="45" height="55"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="45" height="55"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" title="NodeJS" alt="NodeJS" width="45" height="55"/>&nbsp;
